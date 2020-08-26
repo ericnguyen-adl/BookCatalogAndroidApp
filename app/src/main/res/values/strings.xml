@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Database Book Catalogue</string>
+    <string name="title_activity_book_shopping_cart">Book Shopping Cart</string>
+    <string name="btnCreate">Create</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnRemove">Rem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvHeading">Book Catalog</string>
+    <string name="btnViewCart">View Books Chosen</string>
+    <string name="btnAddToCatalog">Add a Book to Catalog</string>
+    <string name="btnEditABookInCatalog">Edit a Book</string>
+    <string name="tvBookTitleLabel">Book Title: </string>
+    <string name="tvBookPriceLabel">Book Price: </string>
+    <string name="btnAddNewBook">ADD THIS BOOK</string>
+    <string name="btnCancelAddBook">CANCEL</string>
+    <string name="btnDelExp">Delete Expensive (>$100)</string>
+    <string name="btnCommit">Commit all Changes</string>
+    <string name="btnUndo">Undo all Changes</string>
+    <string name="btnEditABook">EDIT THIS BOOK</string>
+    <string name="btnCancelEditABook">CANCEL</string>
+    <string name="btnEdit">Edit</string>
+</resources>
